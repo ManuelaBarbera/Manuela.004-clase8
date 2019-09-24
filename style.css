@@ -56,11 +56,11 @@ p {
     display: inline-block;
     width: 200px; 
     font-family: 'Montserrat', sans-serif;
-    text-align: center;
+    text-align: left;
 }
 
 img {
-    width: 150px;
+    width: 250px;
 }
 
 
